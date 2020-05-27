@@ -10,3 +10,5 @@ To run all code properly, first make sure everything's in the same directory. Th
   * SciPy
 ### R Libraries
   * readxl
+  
+Additionally I have chosen to include the CSV files containing the data used to write the article, which was accessed on May 26th, 2020
